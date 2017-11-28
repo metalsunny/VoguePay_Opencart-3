@@ -6,3 +6,4 @@ Instruction -
 4)Configure the module accordingly.
   i)Add voguepay merchant id
   ii)Enable module and save
+ 
