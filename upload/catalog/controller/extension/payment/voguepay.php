@@ -47,7 +47,7 @@ class ControllerExtensionPaymentVoguepay extends Controller {
 			'success_url'   => $success_url,
 			'notify_url'    => $notify_url,
 			'fail_url'      => $fail_url, 
-			'developer_code' => '57aeee5803b0d', 
+			'developer_code' => '5a91e8e44b4bc', 
 			'memo' => $this->session->data['shipping_method']['title']
 			);
 		foreach($voguepay_items as $item){
