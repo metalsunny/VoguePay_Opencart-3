@@ -7,3 +7,4 @@ Instruction -
   i)Add voguepay merchant id
   ii)Enable module and save
  
+This plugin is not uploading. give explanation of how to install it manually via ftp.
